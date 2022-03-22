@@ -1,6 +1,8 @@
 package com.example.demo.student;
 
+import javax.persistence.Entity;
 import java.time.LocalDate;
+
 
 public class Student {
     private Long id;
